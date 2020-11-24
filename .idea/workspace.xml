@@ -5,25 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6185af35-ef35-4cea-b2e8-3aab93ee31f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Задание Clevertec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cave.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/island.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/maldives.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/terrikons.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/.idea/js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    <list default="true" id="6185af35-ef35-4cea-b2e8-3aab93ee31f5" name="Default Changelist" comment="final project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +64,17 @@
       <workItem from="1606155064508" duration="4065000" />
       <workItem from="1606233593414" duration="3895000" />
       <workItem from="1606237642125" duration="416000" />
-      <workItem from="1606238985819" duration="710000" />
+      <workItem from="1606238985819" duration="931000" />
+      <workItem from="1606240783465" duration="43000" />
     </task>
+    <task id="LOCAL-00001" summary="final project">
+      <created>1606240446782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606240446782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +91,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1894" height="332" key="GridCell.Tab.0.bottom" timestamp="1606237520778">
@@ -169,9 +165,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606240340267" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1606240281669">
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1606240514630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606240281669" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606240514630" />
   </component>
 </project>
