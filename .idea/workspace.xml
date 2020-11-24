@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6185af35-ef35-4cea-b2e8-3aab93ee31f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Задание Clevertec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cave.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/island.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/maldives.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/terrikons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kasex9EdwRzeIiiUkAofLSiJ9o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/app.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6185af35-ef35-4cea-b2e8-3aab93ee31f5" name="Default Changelist" comment="" />
+      <created>1605950135996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605950135996</updated>
+      <workItem from="1605950137123" duration="14968000" />
+      <workItem from="1605978458460" duration="8217000" />
+      <workItem from="1606029872364" duration="6280000" />
+      <workItem from="1606056756318" duration="9681000" />
+      <workItem from="1606155064508" duration="4065000" />
+      <workItem from="1606233593414" duration="3895000" />
+      <workItem from="1606237642125" duration="416000" />
+      <workItem from="1606238985819" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1894" height="332" key="GridCell.Tab.0.bottom" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.0.center" timestamp="1606237520777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520777" />
+    <state width="1894" height="332" key="GridCell.Tab.0.left" timestamp="1606237520777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520777" />
+    <state width="1894" height="332" key="GridCell.Tab.0.right" timestamp="1606237520777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520777" />
+    <state width="1894" height="332" key="GridCell.Tab.1.bottom" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.1.center" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.1.left" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.1.right" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.2.bottom" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.2.center" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.2.left" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.2.right" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.3.bottom" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.3.center" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.3.left" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state width="1894" height="332" key="GridCell.Tab.3.right" timestamp="1606237520778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="332" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606237520778" />
+    <state x="359" y="78" key="SettingsEditor" timestamp="1606240340267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606240340267" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1606240281669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606240281669" />
+  </component>
+</project>
